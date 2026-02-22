@@ -10,7 +10,7 @@ function removeElements(nums, k) {
   return left;
 }
 
-let Arry = [3, 2, 2, 3];
+let Arry = [3, 2, 2, 3, 4, 6];
 let Length = removeElements(Arry, 3);
 console.log(Length);
 console.log(Arry.slice(0, Length));
