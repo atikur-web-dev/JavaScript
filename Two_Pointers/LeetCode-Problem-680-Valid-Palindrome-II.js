@@ -39,4 +39,4 @@ function isPalindrome(str, left, right) {
 }
 
 let str1 = 'abcbbbbca';
-console.log(isValidPalindromeII(str1));  // Now correct output
+console.log(isValidPalindromeII(str1));  
